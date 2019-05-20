@@ -1,6 +1,9 @@
-[![CircleCI](https://circleci.com/gh/PagueVeloz/pv-cookies.svg?style=svg)](https://circleci.com/gh/PagueVeloz/pv-cookies) [![Coverage Status](https://coveralls.io/repos/github/PagueVeloz/pv-notify/badge.svg?branch=master)](https://coveralls.io/github/PagueVeloz/pv-notify?branch=master)
+[![CircleCI](https://circleci.com/gh/PagueVeloz/pv-cookies.svg?style=svg)](https://circleci.com/gh/PagueVeloz/pv-cookies)
+[![Coverage Status](https://coveralls.io/repos/github/PagueVeloz/pv-notify/badge.svg?branch=master)](https://coveralls.io/github/PagueVeloz/pv-notify?branch=master)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+[![npm version](https://badge.fury.io/js/%40pagueveloz%2Fcookies.svg)](https://badge.fury.io/js/%40pagueveloz%2Fcookies)
 
-# @pv/cookies
+# @paguevleoz/cookies
 
 Giving easy access to browser cookies.
 [Visit on NPM](https://www.npmjs.com/package/pv-cookies)
@@ -15,11 +18,11 @@ deleteCookie(name) - removes the cookie from the browser history.
 ### Installation
 |Package Manager|Command|
 |-|-|
-|Yarn| `yarn add pv-cookies` |
-|NPM| `npm install --save pv-cookies` |
+|Yarn| `yarn add @pagueveloz/cookies` |
+|NPM| `npm install --save @pagueveloz/cookies` |
 
 
 ### usage
 
 2) Import these methods in es6 like so:
-`import { setCookie, readCookie, deleteCookie } from 'pv-cookies'`
+`import { setCookie, readCookie, deleteCookie } from '@pagueveloz/cookies'`
