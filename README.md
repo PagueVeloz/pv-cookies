@@ -1,5 +1,5 @@
 [![CircleCI](https://circleci.com/gh/PagueVeloz/pv-cookies.svg?style=svg)](https://circleci.com/gh/PagueVeloz/pv-cookies)
-[![Coverage Status](https://coveralls.io/repos/github/PagueVeloz/pv-notify/badge.svg?branch=master)](https://coveralls.io/github/PagueVeloz/pv-notify?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/PagueVeloz/pv-cookies/badge.svg?branch=master)](https://coveralls.io/github/PagueVeloz/pv-cookies?branch=master)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 [![npm version](https://badge.fury.io/js/%40pagueveloz%2Fcookies.svg)](https://badge.fury.io/js/%40pagueveloz%2Fcookies)
 

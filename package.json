@@ -1,6 +1,7 @@
 {
   "name": "@pagueveloz/cookies",
   "version": "0.0.1",
+  "homepage": "https://www.pagueveloz.com.br",
   "description": "Giving easy access to browser cookies.",
   "main": "index.js",
   "private": false,
@@ -19,6 +20,10 @@
   "devDependencies": {
     "coveralls": "^3.0.3",
     "jest": "^24.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PagueVeloz/pv-cookies.git"
   },
   "license": "MIT"
 }
