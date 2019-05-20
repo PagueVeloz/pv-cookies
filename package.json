@@ -1,6 +1,6 @@
 {
   "name": "@pagueveloz/cookies",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://www.pagueveloz.com.br",
   "description": "Giving easy access to browser cookies.",
   "main": "index.js",
