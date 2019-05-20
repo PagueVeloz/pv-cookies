@@ -1,4 +1,4 @@
-declare module "pv-cookies" {
+declare module "@pagueveloz/cookies" {
   /**
    * Write / Rewrite cookie
    *
