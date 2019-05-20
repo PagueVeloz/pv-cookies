@@ -1,0 +1,21 @@
+{
+  "name": "pv-cookies",
+  "version": "0.0.1",
+  "description": "Giving easy access to browser cookies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll",
+    "coveralls": "jest --coverage --coverageReporters=text-lcov | coveralls"
+  },
+  "keywords": [
+    "PagueVeloz",
+    "Cookies",
+    "React",
+    "ReactJS",
+    "TypeScript"
+  ],
+  "devDependencies": {
+    "coveralls": "^3.0.3",
+    "jest": "^24.8.0"
+  }
+}
