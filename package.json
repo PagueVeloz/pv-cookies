@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest --watchAll",
+    "test:ci": "jest",
     "coveralls": "jest --coverage --coverageReporters=text-lcov | coveralls"
   },
   "keywords": [

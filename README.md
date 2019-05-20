@@ -1,4 +1,6 @@
-### pv-cookies
+[![CircleCI](https://circleci.com/gh/PagueVeloz/pv-cookies.svg?style=svg)](https://circleci.com/gh/PagueVeloz/pv-cookies) [![Coverage Status](https://coveralls.io/repos/github/PagueVeloz/pv-notify/badge.svg?branch=master)](https://coveralls.io/github/PagueVeloz/pv-notify?branch=master)
+
+# @pv/cookies
 
 Giving easy access to browser cookies.
 [Visit on NPM](https://www.npmjs.com/package/pv-cookies)
