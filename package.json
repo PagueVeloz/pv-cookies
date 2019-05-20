@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Giving easy access to browser cookies.",
   "main": "index.js",
+  "private": false,
   "scripts": {
     "test": "jest --watchAll",
     "test:ci": "jest",
@@ -18,5 +19,6 @@
   "devDependencies": {
     "coveralls": "^3.0.3",
     "jest": "^24.8.0"
-  }
+  },
+  "license": "MIT"
 }
