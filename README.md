@@ -3,7 +3,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 [![npm version](https://badge.fury.io/js/%40pagueveloz%2Fcookies.svg)](https://badge.fury.io/js/%40pagueveloz%2Fcookies)
 
-# @paguevleoz/cookies
+# @pagueveloz/cookies
 
 Giving easy access to browser cookies.
 [Visit on NPM](https://www.npmjs.com/package/pv-cookies)
