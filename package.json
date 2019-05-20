@@ -1,5 +1,5 @@
 {
-  "name": "pv-cookies",
+  "name": "@pv/cookies",
   "version": "0.0.1",
   "description": "Giving easy access to browser cookies.",
   "main": "index.js",
