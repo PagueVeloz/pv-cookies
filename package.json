@@ -1,5 +1,5 @@
 {
-  "name": "@pv/cookies",
+  "name": "@pagueveloz/cookies",
   "version": "0.0.1",
   "description": "Giving easy access to browser cookies.",
   "main": "index.js",
