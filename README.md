@@ -6,7 +6,7 @@
 # @pagueveloz/cookies
 
 Giving easy access to browser cookies.
-[Visit on NPM](https://www.npmjs.com/package/pv-cookies)
+[Visit on NPM](https://www.npmjs.com/package/@pagueveloz/cookies)
 
 setCookie(name, string) - Allows you to pass a name and a string value to store a cookie on the user's browser. It maps the name to the string.
 
